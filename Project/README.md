@@ -41,12 +41,12 @@ https://drive.google.com/drive/folders/1kWfBE6Rm0XDZ-3kp4al2cxG3wFuV_9TM?usp=sha
 
 #### Davide Sangalli - M.Sc. Data Science Student @ University of Milano-Bicocca
   * d.sangalli5@campus.unimib.it
-  * [Linkedin](https://www.linkedin.com/in/davide-sangalli-867b8518a/)
+  * [LinkedIn](https://www.linkedin.com/in/davide-sangalli-867b8518a/)
   * [GitHub](https://github.com/dasangalli)
 
 #### Federico Signoretta - M.Sc. Data Science Student @ University of Milano-Bicocca
   * f.signoretta@campus.unimib.it
-  * [Linkedin](https://www.linkedin.com/in/federico-signoretta-46a387160/)
+  * [LinkedIn](https://www.linkedin.com/in/federico-signoretta-46a387160/)
   * [GitHub](https://github.com/fedesigno)
 
 
